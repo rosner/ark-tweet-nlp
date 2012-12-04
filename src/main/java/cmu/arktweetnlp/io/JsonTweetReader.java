@@ -1,10 +1,6 @@
 package cmu.arktweetnlp.io;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.util.Iterator;
-
-import cmu.arktweetnlp.util.BasicFileIO;
 
 import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.databind.JsonNode;

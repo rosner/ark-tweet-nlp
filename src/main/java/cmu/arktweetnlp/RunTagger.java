@@ -4,14 +4,12 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.LineNumberReader;
 import java.io.PrintStream;
-import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 import java.util.HashSet;
 import java.util.List;
 
 import cmu.arktweetnlp.impl.ModelSentence;
 import cmu.arktweetnlp.impl.Sentence;
-import cmu.arktweetnlp.impl.features.FeatureExtractor;
 import cmu.arktweetnlp.impl.features.WordClusterPaths;
 import cmu.arktweetnlp.io.CoNLLReader;
 import cmu.arktweetnlp.io.JsonTweetReader;

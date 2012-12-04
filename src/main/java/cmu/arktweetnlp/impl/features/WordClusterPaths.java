@@ -4,9 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.List;
-import java.util.regex.Pattern;
 
-import cmu.arktweetnlp.Twokenize;
 import cmu.arktweetnlp.impl.features.FeatureExtractor.FeatureExtractorInterface;
 import cmu.arktweetnlp.impl.features.FeatureExtractor.PositionFeaturePairs;
 import cmu.arktweetnlp.util.BasicFileIO;
